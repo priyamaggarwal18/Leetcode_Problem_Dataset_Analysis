@@ -3,6 +3,7 @@
 Click here: [https://priyamaggarwal18.github.io/Leetcode_Problem_Dataset_Analysis/](https://priyamaggarwal18.github.io/Leetcode_Problem_Dataset_Analysis/)
 
 <div style="display: flex; justify-content: center"/>  
+  <img src="banner.png" alt="banner" width="1000">
 </div>
 
 <p style="text-align: center">  
